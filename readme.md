@@ -9,5 +9,5 @@
   - 进入client目录执行yarn install && yarn start
   - 进入server目录执行yarn install && yarn start
 ## 存在的问题
-  - saas样式隔离问题 (使用create-react-app创建的项目，发现在其他页面定义的样式，在当前页面加上同样的class也能使用) 待解决
+  - saas样式隔离问题 (使用create-react-app创建的项目，发现在其他页面定义的样式，在当前页面加上同样的class也能使用) 待解决1
   
